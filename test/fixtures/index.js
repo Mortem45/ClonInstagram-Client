@@ -17,7 +17,7 @@ const fixtures = {
       createdAt: new Date().toString()
     }
   },
-  getimages (n) {
+  getImages (n) {
     let images = []
     while (n-- > 0) {
       images.push(this.getImage())
