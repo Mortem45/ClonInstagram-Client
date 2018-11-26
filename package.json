@@ -1,0 +1,25 @@
+{
+  "name": "cloninstagram-client",
+  "version": "1.0.0",
+  "description": "ClonInstagram API Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run lint && ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mortem45/ClonInstagram-Client.git"
+  },
+  "author": "Brandon Monterrozo (ste45_007@hotmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mortem45/ClonInstagram-Client/issues"
+  },
+  "homepage": "https://github.com/Mortem45/ClonInstagram-Client#readme",
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "babel-eslint": "^10.0.1",
+    "standard": "^12.0.1",
+    "uuid-base62": "^0.1.0"
+  }
+}
